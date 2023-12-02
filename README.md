@@ -2,7 +2,7 @@
 
 Welcome to the Ananya Masale React Website repository! This project is a web application built using React.js to showcase and explore the diverse range of spices offered by Ananya Masale. Ananya Masale is committed to providing high-quality, authentic Indian spices to enhance the flavor of your culinary creations.
 
-## Live Demo - https://ananya-masale-website-reactjs.netlify.app/
+### Live Demo - https://ananya-masale-website-reactjs.netlify.app/
 
 ## Table of Contents
 
