@@ -10,9 +10,7 @@ Welcome to the Ananya Masale React Website repository! This project is a web app
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Getting Started
 
