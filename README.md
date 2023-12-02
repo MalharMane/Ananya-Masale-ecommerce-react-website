@@ -8,6 +8,8 @@ Welcome to the Ananya Masale React Website repository! This project is a web app
 #
 
 
+![Screenshot (616)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/7a909ac1-3cf7-4606-9395-a2193baccb11) ![Screenshot (616)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/38c9226e-1207-4b4c-8f25-be67a9acb5bb)
+
 
 
 ![Screenshot (656)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/c92dbaea-59a2-4571-908d-b14edc523acb)
