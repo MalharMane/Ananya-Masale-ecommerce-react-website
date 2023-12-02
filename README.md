@@ -13,18 +13,11 @@ Welcome to the Ananya Masale React Website repository! This project is a web app
 
 
 
-
-![Screenshot (656)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/c92dbaea-59a2-4571-908d-b14edc523acb)
-
-![Screenshot (686)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/2c7f82f5-ec9c-4bc5-9698-54e03c1917ec)
+![Screenshot (3)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/c13cfa61-8a42-44cf-b769-d8bdc1dc3583) ![Screenshot (4)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/fe92e73b-3c81-4561-93b4-88a1cf7a177e)
 
 
-![Screenshot (66)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/715b93f4-344a-4fac-8f43-535b29900317)
+![Screenshot (6)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/d4fae030-5f46-49d0-9db2-4381a66276dc)
 
-
-![Screenshot (63)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/ba68dcb3-5e76-4380-9d6d-ee7fb79b3d8a)
-
-![Screenshot (68)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/d9eeadb1-290d-4f96-a73f-b32b2d8924e7)
 
 ###  Responsive Interface , Can be used on Multiple Devices -
 
