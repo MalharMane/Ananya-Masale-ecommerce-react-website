@@ -1,4 +1,4 @@
-![Screenshot (69)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/2ac1569b-435f-440c-b26b-9c3425e08fb3)# Ananya Masale React Website
+# Ananya Masale React Website
 
 Welcome to the Ananya Masale React Website repository! This project is a web application built using React.js to showcase and explore the diverse range of spices offered by Ananya Masale. Ananya Masale is committed to providing high-quality, authentic Indian spices to enhance the flavor of your culinary creations.
 
