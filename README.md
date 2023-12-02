@@ -17,6 +17,8 @@ Welcome to the Ananya Masale React Website repository! This project is a web app
 
 ###  Responsive Interface , Can be used on Multiple Devices -
 
+#
+
 ![Screenshot (69)](https://github.com/MalharMane/Ananya-Masale-ecommerce-react-website-main/assets/104439115/fd30c4ff-5e90-427a-9b63-22dfb23122b2)
 
 
